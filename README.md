@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/zzooppii">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&repeat=true&width=650&height=45&lines=EVM+Smart+Contract+Engineer;L1/L2+Architecture+%7C+DAO+%7C+Slashing;Optimism+DisputeGame+Integration;Production+Level+Mainnet+Deployment" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=040926&center=true&vCenter=true&repeat=true&width=650&height=45&lines=EVM+Smart+Contract+Engineer;L1/L2+Architecture+%7C+DAO+%7C+Slashing;Optimism+DisputeGame+Integration;Production+Level+Mainnet+Deployment" />
   </a>
 </p>
 
