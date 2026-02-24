@@ -39,7 +39,7 @@ Smart Contract Engineer with **8+ years experience**
 - L1/L2 기반 DAO, Staking, Slashing 설계 및 구현
 - Optimism DisputeGame 기반 StateRoot 검증 구조 개발
 - Upgradeable & Modular Contract Architecture 설계
-- External Audit 4회 대응 및 Mainnet 배포 경험
+- External Audit 3회 대응 및 Mainnet 배포 경험
 - Hardhat / Foundry 기반 테스트 및 Mainnet Forking 검증
 - **목표**: 많은 사람들이 사용할 수 있는 Web3 아키텍처 구축
 
