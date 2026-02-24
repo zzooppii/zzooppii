@@ -89,7 +89,7 @@ Smart Contract Engineer with **8+ years experience**
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,go,js,ts,nodejs,docker,aws,linux,mongodb,git&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=solidity,go,js,ts,nodejs,docker,aws,mongodb,git&theme=dark&perline=5" />
   </a>
 </p>
 
@@ -110,11 +110,11 @@ Smart Contract Engineer with **8+ years experience**
     <img src="https://streak-stats.demolab.com/?user=zzooppii&theme=radical&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560" alt="GitHub Streak">
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/zzooppii">
     <img src="https://streak-stats.demolab.com/?user=zzooppii&theme=radical&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560" />
   </a>
-</p>
+</p> -->
 
 ---
 
@@ -140,13 +140,13 @@ Smart Contract Engineer with **8+ years experience**
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="블로그링크"><img src="https://img.shields.io/badge/Blog-e94560?style=for-the-badge&logoColor=white" alt="Blog"></a>
   <a href="링크드인링크"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+</p> -->
 
 <p align="center">
-  📧 <a href="mailto:이메일@주소.com">이메일@주소.com</a>
+  📧 <a href="mailto:이메일@주소.com">zzooppii@naver.com</a>
 </p>
 
 <!-- 7. 하단 물결 움직이는 배경 렌더러 -->
