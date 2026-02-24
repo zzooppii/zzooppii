@@ -44,7 +44,7 @@ Smart Contract Engineer with **8+ years experience**
 - **목표**: 많은 사람들이 사용할 수 있는 Web3 아키텍처 구축
 
 </td>
-<td width="45%" valign="top">
+<!-- <td width="45%" valign="top">
 
 ### Core Focus
 
@@ -62,7 +62,7 @@ Smart Contract Engineer with **8+ years experience**
 - Upgrade-safe 구조 재설계
 - SafeWallet / MultiSig 통합
 
-</td>
+</td> -->
 </tr>
 </table>
 
