@@ -117,6 +117,14 @@ Smart Contract Engineer with **8+ years experience**
   </a>
 </p> -->
 
+<!-- 스네이크 애니메이션 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzooppii/zzooppii/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zzooppii/zzooppii/output/dist/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/zzooppii/zzooppii/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
+</picture>
+
+
 ---
 
 ### Philosophy
