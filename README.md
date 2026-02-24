@@ -36,8 +36,6 @@
 
 Smart Contract Engineer with **8+ years experience**
 
-- **목표**: 많은 사람들이 사용할 수 있는 Web3 아키텍처 구축
-
 - L1/L2 기반 DAO, Staking, Slashing 설계 및 구현
 - Optimism DisputeGame 기반 StateRoot 검증 구조 개발
 - Upgradeable & Modular Contract Architecture 설계
@@ -133,6 +131,7 @@ Smart Contract Engineer with **8+ years experience**
 > "동작하는 코드가 아니라,  
 > 메인넷에서 살아남는 구조를 설계합니다."
 
+- **목표**: 많은 사람들이 사용할 수 있는 Web3 아키텍처 구축
 - 설계 → 테스트 → Audit 대응 → 배포 → 운영까지 End-to-End 책임
 - 복잡한 온체인 로직을 구조적으로 단순화하는 아키텍처 지향
 - 확장성과 보안을 동시에 고려한 Contract 설계
