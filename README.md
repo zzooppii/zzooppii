@@ -4,7 +4,7 @@
 </a> -->
 
 <a href="https://github.com/zzooppii">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=EVM%20Smart%20Contract%20Engineer&fontColor=E94560&fontSize=40" width="100%" />
+  <img src="Banner.png" width="100%" alt="Zzooppii Banner" />
 </a>
 
 <!-- <a href="https://github.com/zzooppii">
