@@ -8,9 +8,7 @@
 </a>
 
 <!-- 2. 타이핑 애니메이션 텍스트 (lines= 뒤에 원하는 문구를 +로 연결해서 영문으로 적어보세요) -->
-<p align="center">
-  <a href="https://github.com/zzooppii"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&repeat=true&width=550&height=45&lines=Hello!+I'm+zzooppii;Passionate+Developer;Welcome+To+My+Profile" alt="Typing SVG"></a>
-</p>
+
 <p align="center">
   <a href="https://github.com/zzooppii">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&repeat=true&width=650&height=45&lines=EVM+Smart+Contract+Engineer;L1/L2+Architecture+%7C+DAO+%7C+Slashing;Optimism+DisputeGame+Integration;Production+Level+Mainnet+Deployment" />
@@ -20,9 +18,6 @@
 <!-- 3. 각종 뱃지 및 프로필 조회수 -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zzooppii&style=flat-square&color=533483" alt="Profile Views">
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zzooppii&style=flat-square&color=533483" />
 </p>
 
 
