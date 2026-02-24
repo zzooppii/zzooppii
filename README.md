@@ -97,6 +97,7 @@ Smart Contract Engineer with **8+ years experience**
 - Hardhat
 - Foundry
 - Anvil
+- TypeScript
 - Mainnet Fork Testing
 - Docker 기반 로컬 Devnet 구성
 
