@@ -141,7 +141,7 @@ Smart Contract Engineer with **8+ years experience**
 ### Connect
 
 <p align="center">
-  <a href="mailto:zzooppii@naver.com">
+  <a href="mailto:zzooppii@gmail.com">
     <img src="https://img.shields.io/badge/Email-e94560?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/zzooppii">
@@ -155,7 +155,7 @@ Smart Contract Engineer with **8+ years experience**
 </p> -->
 
 <p align="center">
-  📧 <a href="mailto:이메일@주소.com">zzooppii@naver.com</a>
+  📧 <a href="mailto:이메일@주소.com">zzooppii@gmail.com</a>
 </p>
 
 <!-- 7. 하단 물결 움직이는 배경 렌더러 -->
