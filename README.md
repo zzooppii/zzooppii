@@ -2,6 +2,9 @@
 <a href="https://github.com/zzooppii">
   <img src="https://via.placeholder.com/800x200/1a1a2e/ffffff?text=zzooppii+Banner" alt="zzooppii Banner" width="100%">
 </a>
+<a href="https://github.com/zzooppii">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=EVM%20Smart%20Contract%20Engineer&fontColor=E94560&fontSize=40" width="100%" />
+</a>
 
 <a href="https://github.com/zzooppii">
   <img src="https://via.placeholder.com/1200x260/0d1117/e94560?text=EVM+Smart+Contract+Engineer+-+L1/L2+Architecture" width="100%">
