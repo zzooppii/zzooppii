@@ -128,9 +128,6 @@ Smart Contract Engineer with **8+ years experience**
 
 ### Philosophy
 
-> "동작하는 코드가 아니라,  
-> 메인넷에서 살아남는 구조를 설계합니다."
-
 - **목표**: 많은 사람들이 사용할 수 있는 Web3 아키텍처 구축
 - 설계 → 테스트 → Audit 대응 → 배포 → 운영까지 End-to-End 책임
 - 복잡한 온체인 로직을 구조적으로 단순화하는 아키텍처 지향
