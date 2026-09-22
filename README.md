@@ -107,13 +107,12 @@ Smart Contract Engineer with **8+ years experience**
 <!-- 6. 깃허브 스트릭(연속 커밋) 스탯 -->
 <p align="center">
   <a href="https://github.com/zzooppii">
-    <img src="https://streak-stats.demolab.com/?user=zzooppii&theme=radical&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com/?user=zzooppii&theme=radical&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560&timezone=Asia%2FSeoul" alt="GitHub Streak">
   </a>
 </p>
 <!-- <p align="center">
   <a href="https://github.com/zzooppii">
     <img src="https://streak-stats.demolab.com/?user=zzooppii&theme=radical&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560" />
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=zzooppii&cache=false)](https://git.io/streak-stats)
   </a>
 </p> -->
 
@@ -123,7 +122,6 @@ Smart Contract Engineer with **8+ years experience**
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zzooppii/zzooppii/output/github-contribution-grid-snake.svg">
   <img src="https://raw.githubusercontent.com/zzooppii/zzooppii/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
 </picture>
-
 
 ---
 
