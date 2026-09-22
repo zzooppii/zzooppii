@@ -113,6 +113,7 @@ Smart Contract Engineer with **8+ years experience**
 <!-- <p align="center">
   <a href="https://github.com/zzooppii">
     <img src="https://streak-stats.demolab.com/?user=zzooppii&theme=radical&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560" />
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=zzooppii&cache=false)](https://git.io/streak-stats)
   </a>
 </p> -->
 
